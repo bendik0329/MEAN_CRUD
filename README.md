@@ -1,2 +1,2 @@
 # MEAN_CRUD
-MEAN CRUD project
+This is a basic CRUD application using MEAN.
